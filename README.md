@@ -1,6 +1,8 @@
-# Introdução a Jupyter, Pandas e SQLite
+# Introdução a Colab, Jupyter, Pandas e SQLite
 
-Aula de introdução a jupyter, pandas e sqlite para a turma de IBD 2019/1
+Aula prática para a turma de IBD 2019/2
 
 Os dados utilizados para os exemplos estão disponíveis na pasta data deste mesmo repositório.
-O dump do banco de dados para realização do TP 1 está disponível em https://tinyurl.com/y2no463j
+
+
+Modificado a partir dos notebooks feitos por Natércia Aguilar e Laís Mota.
