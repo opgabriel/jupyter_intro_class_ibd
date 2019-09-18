@@ -94,6 +94,7 @@ INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("VR", 34646
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("Pay", 17787063122, datetime('now', '-34 days', 'localtime'), "iFood", "IBD-SP"); 
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("WhatsApp", 31266012516, datetime('now', '-32 days', 'localtime'), "IBD-SP", "Facebook"); 
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("NMT", 44434353608, datetime('now', '-27 days', 'localtime'), "Baidu", "IBD-SP"); 
+INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("NMT", 34646193892, datetime('now', '-27 days', 'localtime'), "Baidu", "IBD-SP"); 
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("Fraud", 71960563530, datetime('now', '-25 days', 'localtime'), "IBD-SP", "Nubank"); 
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("Spam", 44434353608, datetime('now', '-20 days', 'localtime'), "IBD-PR", "Google"); 
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("Pay", 17787063122, datetime('now', '-20 days', 'localtime'), "iFood", "IBD-MG"); 
@@ -101,6 +102,8 @@ INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("RecSys", 0
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("RecSys", 62465487841, datetime('now', '-14 days', 'localtime'), "IBD-MG", "iFood"); 
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("WhatsApp", 17787063122, datetime('now', '-7 days', 'localtime'), "Facebook", "IBD-SP"); 
 INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("VR", 34646193892, datetime('now', '-7 days', 'localtime'), "IBD-MG", "Oculus VR"); 
+INSERT INTO VIAGEM (SIGLA, CPF, DATAVIAGEM, ORIGEM, DESTINO) VALUES ("VR", 44434353608, datetime('now', '-7 days', 'localtime'), "IBD-MG", "Oculus VR"); 
+
 
 CREATE TABLE [LOCAL] ( 
 NOMELOC VARCHAR(45), 
